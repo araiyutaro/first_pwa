@@ -1,4 +1,4 @@
-var cacheName = 'arai_test';
+var cacheName = 'arai-test';
 var fileToCache = [
     '/',
     '/index.html',
